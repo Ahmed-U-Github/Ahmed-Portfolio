@@ -1,155 +1,48 @@
-<p align="center" width="100%">
-    <img height="100" src="https://github.com/said7388/developer-portfolio/assets/77630868/c0064908-cd5f-4751-a77c-eba90a62b55c">
-</p>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+there!+👋;This+is+AHMED+U...;Nice+to+meet+you!;A+DevOps+Engineer!;A+SRE!;A+Cloud+Engineer!&center=true&size=30" alt="Typing SVG">
+  </a>
+</h1>
 
----
-# [Built Portfolio With GitHub ](https://github.com/said7388/github-portfolio)
+![](https://komarev.com/ghpvc/?username=ahmed-u&color=brightgreen)
 
----
-
-# Developer Portfolio
-
-### Are you struggling to create a professional portfolio website? Look no further! You can use the Developer Portfolio template and create your very own personalized portfolio today! My website is designed to be user-friendly and easily customizable, making it perfect for both developers and freelancers.
-
----
-
-# Demo :movie_camera:
-
-![](./public/image/screen.png)
-
-## View live preview [here](https://abusaid.netlify.app/).
+- 🔭 Focusing on (DevOps + Site Reliability + Cloud).😎
+- 🌱 Trying to become an expert in DevOps Engineer ❤
+- 💻 I love exploring new tech stacks and automating stuff.
+- 📰 Reading tech documentation whenever possible.
+- 🥅 2025 Goals: Learn Cloud on Azure and GCP.
 
 ---
 
-## Table of Contents :scroll:
+### Connect With Me:
 
-- [Sections](#sections-bookmark)
-- [Demo](#demo-movie_camera)
-- [Installation](#installation-arrow_down)
-- [Getting Started](#getting-started-dart)
-- [Usage](#usage-joystick)
-- [Packages Used](#packages-used-package)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ahmedu2206)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-u22/)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/ahmed_u2206)
+[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedumar2206@gmail.com)
 
 ---
 
-# Sections :bookmark:
+### Languages and Tools:
 
-- HERO SECTION
-- ABOUT ME
-- EXPERIENCE
-- SKILLS
-- PROJECTS
-- EDUCATION
-- BLOG
-- CONTACTS
-
----
-
-# Installation :arrow_down:
-
-### You will need to download Git and Node to run this project
-
-- [Git](https://git-scm.com/downloads)
-- [Node](https://nodejs.org/en/download/)
-
-#### Make sure you have the latest version of both Git and Node on your computer.
-
-```
-node --version
-git --version
-```
-
-## <br />
-
-# Getting Started :dart:
-
-### Fork and Clone the repo
-
-To Fork the repo click on the fork button at the top right of the page. Once the repo is forked open your terminal and perform the following commands
-
-```
-git clone https://github.com/<YOUR GITHUB USERNAME>/developer-portfolio.git
-
-cd developer-portfolio
-```
-
-### Install packages from the root directory
-
-```bash
-npm install
-# or
-yarn install
-```
-
-Then, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+![AWS](https://img.shields.io/badge/AWS-darkorange?style=flat-square&logo=amazonwebservices&logoColor=black)
+![Jenkins](https://img.shields.io/badge/Jenkins-white?style=flat-square&logo=Jenkins&logoColor=darkred)
+![Docker](https://img.shields.io/badge/Docker-0CC1F3?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-orange?style=flat-square&logo=git&logoColor=black)
+![Github](https://img.shields.io/badge/github-f7f7f7?style=flastic&logo=github&logoColor=000000)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-white?style=flastic&logo=kubernetes&logoColor=blue)
+![Terraform](https://img.shields.io/badge/Terraform-black?style=flat-square&logo=terraform&logoColor=blue)
+![Prometheus](https://img.shields.io/badge/Prometheus-E34F26?style=flat-square&logo=Prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-black?style=flat-square&logo=Grafana&logoColor=Black)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-31658D?style=flastic&logo=PostgreSQL&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-F7F7F7?style=flat-square&logo=mongodb&logoColor=49A248)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E05924?style=flat-square&logo=ubuntu&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FFFBC8?style=flat-square&logo=Linux&logoColor=black)
+![VisualStudio](https://img.shields.io/badge/VisualStudio-2C2B30?style=flastic&logo=VisualStudioCode&logoColor=007ACC)
+![PagerDuty](https://img.shields.io/badge/PagerDuty-grey?style=flat-square&logo=pagerduty&logoColor=green)
+![Postman](https://img.shields.io/badge/Postman-f7f7f7?style=flastic&logo=Postman&logoColor=FF6C37)
 
 ---
 
-# Usage :joystick:
-
-Goto [emailjs.com](https://www.emailjs.com/) and create a new account for the mail sending. In free trial you will get 200 mail per month. After setup `emailjs` account, Please create a new `.env` file from `.env.example` file.
-
-Eg:
-
-```env
-NEXT_PUBLIC_EMAILJS_SERVICE_ID =
-NEXT_PUBLIC_EMAILJS_TEMPLATE_ID =
-NEXT_PUBLIC_EMAILJS_PUBLIC_KEY =
-NEXT_PUBLIC_GTM = # For site analytics
-NEXT_PUBLIC_APP_URL = "http://127.0.0.1:3000"
-NEXT_PUBLIC_RECAPTCHA_SECRET_KEY = # For captcha verification on contact form
-NEXT_PUBLIC_RECAPTCHA_SITE_KEY =
-```
-
-### Then, Customize data in the `utils/data` [folder](https://github.com/said7388/developer-portfolio/tree/main/utils/data).
-
-Eg:
-
-```javascript
-export const personalData = {
-  name: "ABU SAID",
-  profile: "/profile.png",
-  designation: "Full-Stack Software Developer",
-  description: "My name is ABU SAID....",
-  email: "abusaid7388@gmail.com",
-  phone: "+8801608797655",
-  address: "Dhaka, Bangladesh",
-  github: "https://github.com/said7388",
-  facebook: "https://www.facebook.com/abusaid.riyaz/",
-  linkedIn: "https://www.linkedin.com/in/abu-said-bd/",
-  twitter: "https://twitter.com/said7388",
-  stackOverflow: "https://stackoverflow.com/users/16840768/abu-said",
-  leetcode: "https://leetcode.com/said3812/",
-  devUsername: "said7388",
-  resume: "...",
-};
-```
-
-`devUsername` Used for fetching blog from `dev.to`.
-
----
-
----
-
-# Packages Used :package:
-
-| Used Package List  |
-| :----------------: |
-|        next        |
-|  @emailjs/browser  |
-|    lottie-react    |
-| react-fast-marquee |
-|    react-icons     |
-|   react-toastify   |
-|        sass        |
-|    tailwindcss     |
-
----
+<!------>
