@@ -1,0 +1,7 @@
+# Ignore node_modules directory
+node_modules/
+
+# Optionally ignore any other large files or patterns
+# For example, to ignore all .node files:
+*.node
+
